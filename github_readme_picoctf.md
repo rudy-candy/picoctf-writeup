@@ -12,17 +12,20 @@ Blog: [alsavaudomila.com](https://alsavaudomila.com)
 picoctf-writeup/
 │
 ├── Forensics/
-│   ├── Easy/
-│   │   ├── Scan Surprise .............. https://alsavaudomila.com/scan-surprise-picoctf-writeup/
-│   │   ├── RED ........................ https://alsavaudomila.com/red-picoctf-writeup/
-│   │   ├── Corrupted File ............. https://alsavaudomila.com/corrupted-file-picoctf-writeup/
-│   │   ├── DISKO 1 .................... https://alsavaudomila.com/disko-1-picoctf-writeup/
-│   │   └── Ph4nt0m 1ntrud3r ........... https://alsavaudomila.com/ph4nt0m-1ntrud3r-picoctf-writeup/
+│   └── Easy/
+│       ├── RED ........................ https://alsavaudomila.com/red-picoctf-writeup/
+│       ├── Corrupted File ............. https://alsavaudomila.com/corrupted-file-picoctf-writeup/
+│       ├── DISKO 1 .................... https://alsavaudomila.com/disko-1-picoctf-writeup/
+│       └── Ph4nt0m 1ntrud3r ........... https://alsavaudomila.com/ph4nt0m-1ntrud3r-picoctf-writeup/
 │
 ├── Cryptography/
-│   ├── Medium/
-│   │   ├── Mini RSA ................... https://alsavaudomila.com/mini-rsa-picoctf-writeup/
-│   │   └── Crack the Power ............ https://alsavaudomila.com/crack-the-power/
+│   └── Medium/
+│       ├── Mini RSA ................... https://alsavaudomila.com/mini-rsa-picoctf-writeup/
+│       └── Crack the Power ............ https://alsavaudomila.com/crack-the-power/
+│
+├── General Skills/
+│   └── Easy/
+│       └── Scan Surprise .............. https://alsavaudomila.com/scan-surprise-picoctf-writeup/
 │
 └── Web Exploitation/
     └── Easy/
@@ -33,7 +36,8 @@ picoctf-writeup/
 
 ## 🛠 Tools I use
 
-- `file`, `xxd`, `binwalk` — file identification & carving
+- `strings`, `file`, `xxd` — quick first-pass analysis
+- `binwalk`, `foremost` — file identification & carving
 - `Wireshark`, `tshark` — network forensics
 - `zbarimg`, `pngcheck` — image analysis
 - `python3` (gmpy2, pwntools) — crypto scripting

@@ -8,39 +8,48 @@ Blog: [alsavaudomila.com](https://alsavaudomila.com)
 
 ## 📁 Writeups
 
-```
-picoctf-writeup/
-│
-├── Forensics/
-│   └── Easy/
-│       ├── RED ........................ https://alsavaudomila.com/red-picoctf-writeup/
-│       ├── Corrupted File ............. https://alsavaudomila.com/corrupted-file-picoctf-writeup/
-│       ├── DISKO 1 .................... https://alsavaudomila.com/disko-1-picoctf-writeup/
-│       └── Ph4nt0m 1ntrud3r ........... https://alsavaudomila.com/ph4nt0m-1ntrud3r-picoctf-writeup/
-│
-├── Cryptography/
-│   └── Medium/
-│       ├── Mini RSA ................... https://alsavaudomila.com/mini-rsa-picoctf-writeup/
-│       └── Crack the Power ............ https://alsavaudomila.com/crack-the-power/
-│
-├── General Skills/
-│   └── Easy/
-│       └── Scan Surprise .............. https://alsavaudomila.com/scan-surprise-picoctf-writeup/
-│
-└── Web Exploitation/
-    └── Easy/
-        └── Includes ................... https://alsavaudomila.com/includes-picoctf-writeup/
-```
+### Forensics / Easy
+- [RED](https://alsavaudomila.com/red-picoctf-writeup/)
+- [Corrupted File](https://alsavaudomila.com/corrupted-file-picoctf-writeup/)
+- [DISKO 1](https://alsavaudomila.com/disko-1-picoctf-writeup/)
+- [Ph4nt0m 1ntrud3r](https://alsavaudomila.com/ph4nt0m-1ntrud3r-picoctf-writeup/)
+
+### Cryptography / Medium
+- [Mini RSA](https://alsavaudomila.com/mini-rsa-picoctf-writeup/)
+- [Crack the Power](https://alsavaudomila.com/crack-the-power/)
+
+### General Skills / Easy
+- [Scan Surprise](https://alsavaudomila.com/scan-surprise-picoctf-writeup/)
+
+### Web Exploitation / Easy
+- [Includes](https://alsavaudomila.com/includes-picoctf-writeup/)
 
 ---
 
 ## 🛠 Tools I use
 
-- `strings`, `file`, `xxd` — quick first-pass analysis
-- `binwalk`, `foremost` — file identification & carving
-- `Wireshark`, `tshark` — network forensics
-- `zbarimg`, `pngcheck` — image analysis
-- `python3` (gmpy2, pwntools) — crypto scripting
+### Quick first-pass
+- [strings](https://alsavaudomila.com/strings-command-in-ctf-how-to-extract-hidden-data-from-binaries/) — extract readable text from binaries
+- [binwalk](https://alsavaudomila.com/binwalk-in-ctf-how-to-analyze-binaries-and-extract-hidden-files/) — detect and extract embedded files
+- [pngcheck](https://alsavaudomila.com/pngcheck-in-ctf-how-to-analyze-and-repair-png-files/) — analyze and repair PNG files
+
+### Image analysis
+- [steghide](https://alsavaudomila.com/steghide-in-ctf-how-to-hide-and-extract-data-from-files/) — extract hidden data from images
+- [zbarimg](https://alsavaudomila.com/zbarimg-in-ctf-qr-barcode-decoding-techniques-and-common-challenge-patterns/) — decode QR codes and barcodes
+
+### Audio forensics
+- [Audacity](https://alsavaudomila.com/audacity-in-ctf-audio-forensics-techniques-and-common-challenge-patterns/) — audio analysis and spectrogram
+- [SoX](https://alsavaudomila.com/sox-in-ctf-how-to-analyze-and-manipulate-audio-files/) — audio manipulation
+- [FFmpeg](https://alsavaudomila.com/ffmpeg-in-ctf-how-to-analyze-and-manipulate-audio-video-files/) — audio/video analysis
+
+### Disk / Memory
+- [dd](https://alsavaudomila.com/dd-in-ctf-disk-imaging-extraction-and-common-challenge-patterns/) — disk imaging and extraction
+- [fdisk](https://alsavaudomila.com/fdisk-in-ctf-partition-analysis-and-common-challenge-patterns/) — partition analysis
+- [mount](https://alsavaudomila.com/mount-in-ctf-disk-image-mounting-and-common-challenge-patterns/) — disk image mounting
+
+### Crypto / Archive
+- [zip2john](https://alsavaudomila.com/zip2john-in-ctf-extracting-zip-passwords-and-common-challenge-patterns/) — ZIP password recovery
+- [pdfdumper](https://alsavaudomila.com/pdfdumper-in-ctf-extracting-pdf-content-and-common-challenge-patterns/) — PDF content extraction
 
 ---
 

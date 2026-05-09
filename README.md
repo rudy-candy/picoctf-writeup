@@ -17,6 +17,9 @@ Blog: [alsavaudomila.com](https://alsavaudomila.com)
 - [Flag in Flame](https://alsavaudomila.com/flag-in-flame-picoctf-writeup/)
 - [Riddle Registry](https://alsavaudomila.com/riddle-registry-picoctf-writeup/)
 
+### Forensics / Medium
+- [Wireshark doo dooo do doo…](https://alsavaudomila.com/wireshark-doo-dooo-do-doo-picoctf-writeup/)
+
 ### Cryptography / Medium
 - [Mini RSA](https://alsavaudomila.com/mini-rsa-picoctf-writeup/)
 - [Crack the Power](https://alsavaudomila.com/crack-the-power/)

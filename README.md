@@ -15,6 +15,7 @@ Blog: [alsavaudomila.com](https://alsavaudomila.com)
 - [Ph4nt0m 1ntrud3r](https://alsavaudomila.com/ph4nt0m-1ntrud3r-picoctf-writeup/)
 - [Hidden in Plainsight](https://alsavaudomila.com/hidden-in-plainsight-picoctf-writeup/)
 - [Flag in Flame](https://alsavaudomila.com/flag-in-flame-picoctf-writeup/)
+- [Riddle Registry](https://alsavaudomila.com/riddle-registry-picoctf-writeup/)
 
 ### Cryptography / Medium
 - [Mini RSA](https://alsavaudomila.com/mini-rsa-picoctf-writeup/)

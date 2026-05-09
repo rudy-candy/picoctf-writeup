@@ -32,6 +32,7 @@ Blog: [alsavaudomila.com](https://alsavaudomila.com)
 - [Includes](https://alsavaudomila.com/includes-picoctf-writeup/)
 - [Crack the Gate 1](https://alsavaudomila.com/crack-the-gate-1-picoctf-writeup-2/)
 - [Inspect HTML](https://alsavaudomila.com/inspect-html-picoctf-writeup/)
+- [Local Authority](https://alsavaudomila.com/local-authority-picoctf-writeup/)
 
 ---
 

@@ -27,6 +27,7 @@ Blog: [alsavaudomila.com](https://alsavaudomila.com)
 
 ### Web Exploitation / Easy
 - [Includes](https://alsavaudomila.com/includes-picoctf-writeup/)
+- [Crack the Gate 1](https://alsavaudomila.com/crack-the-gate-1-picoctf-writeup-2/)
 
 ---
 

@@ -23,6 +23,7 @@ Blog: [alsavaudomila.com](https://alsavaudomila.com)
 
 ### General Skills / Easy
 - [Scan Surprise](https://alsavaudomila.com/scan-surprise-picoctf-writeup/)
+- [Log Hunt](https://alsavaudomila.com/log-hunt-picoctf-writeup/)
 
 ### Web Exploitation / Easy
 - [Includes](https://alsavaudomila.com/includes-picoctf-writeup/)
